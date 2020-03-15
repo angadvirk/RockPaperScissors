@@ -1,6 +1,6 @@
 # rock-paper-scissors
-Simple rock paper scissors game, created using HTML, CSS and JavaScript.
+Simple rock paper scissors app, created using HTML, CSS and JavaScript.
 
-Download all the files and run index.html to view the app. 
+Link to app: https://avirk-rock-paper-scissors.000webhostapp.com/
 
 Tutorial Credits: Whatsdev (https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg)
